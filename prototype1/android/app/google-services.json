@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "291044179463",
+    "firebase_url": "https://treasurehunt-fab43.firebaseio.com",
+    "project_id": "treasurehunt-fab43",
+    "storage_bucket": "treasurehunt-fab43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291044179463:android:78d6c86e7d828f6168f4a2",
+        "android_client_info": {
+          "package_name": "com.example.treasurehunt123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291044179463-g6j6fq9cv06dde793rji9gkohv4icopg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZyZCo-_hPrR38Yyr3lZVHA1h3fjswWUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291044179463-g6j6fq9cv06dde793rji9gkohv4icopg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
